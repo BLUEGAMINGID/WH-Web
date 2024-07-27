@@ -604,7 +604,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 20rem;
-    height: 8rem;
+    height: 13rem;
     background-color: var(--background2);
     border-radius: var(--roundness);
     margin: 1rem;
